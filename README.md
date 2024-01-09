@@ -77,27 +77,9 @@ prompts in the categories:
 e.g. langchain, Llamaindex
 
 
-<a id="org8513f82"></a>
-
 # Bag of tricks
 
 
-<a id="org4eada0e"></a>
-
-## Take a deep breath
-
-
-<a id="orgf2df201"></a>
-
-## Or I'll kill myself
-
-
-<a id="orgf2386af"></a>
-
-## I know you can do this
-
-
-<a id="orgfbe4722"></a>
 
 # Structured responses
 
@@ -106,7 +88,7 @@ e.g. langchain, Llamaindex
 
 ## Guidance, LMQL, RELM, and Outlines
 
-are all exciting new libraries for controlling the individual
+> are all exciting new libraries for controlling the individual
 completions of LMs, e.g., if you want to enforce JSON output schema or
 constrain sampling to a particular regular expression.
 
@@ -191,7 +173,6 @@ A/B testing stats übertragen
 prompt injection, fight of the system prompt vs user prompt / chat
 input
 
-Mit Selbstmord drohen
 Eva Wolfangel
 
 
