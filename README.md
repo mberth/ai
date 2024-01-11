@@ -28,7 +28,7 @@ cost, speed, and output quality. Therefore we emphasize the
 Our aim with this guide is to organize links to key external resources,
 and give concise commentary to help you find what's relevant for your task.
 
-If you want to contribute to this guide, please open an issue, send a
+If you want to contribute to this guide, please [open an issue](https://github.com/mberth/ai/issues), send a
 PR, or email me at prompts@matthiasberth.com.
 
 
