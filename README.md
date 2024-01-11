@@ -1,5 +1,5 @@
 
-# Table of Contents
+# Prompt Engineering Resource Guide
 
 1.  [Exploration](#exploration)
     1.  [General Guides](#guides)
